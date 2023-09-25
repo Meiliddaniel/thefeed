@@ -21,10 +21,17 @@ nav{
     background-color: none;
     width: 250px;
     position: fixed;
-    top: 150px;
+    top: px;
     left: 25px;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+
+ul{
+    position:fixed;
+    margin-top: 30%;
+
+}
+
 
 main{
     background-color:none;
@@ -69,6 +76,10 @@ h3{
 
 h4{
     color: rgb(88, 150, 109);
+}
+
+h5{
+    color: rgb(219, 228, 242)
 }
 footer{
     color:rgb(119, 144, 165);
