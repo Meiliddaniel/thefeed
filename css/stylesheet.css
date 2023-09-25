@@ -35,7 +35,7 @@ ul{
 
 main{
     background-color:none;
-    width: 550px;
+    width: 750px;
     margin-left: 450px;
 
 }
@@ -56,10 +56,23 @@ section{
 }
 
 
-.comlumn1, .column2{
+.column1{
+    width: 300px;
+    float: left;
+    margin: 10px;
+    height: 500px;
+}
+
+.column2{
     width: 300px;
     float: right;
-    margin-top:
+    margin: 10px;
+    margin-left: 20px;
+    height: 500px;
+}
+
+.column1, .column2 p{
+    width: 250px;
 }
 
 
